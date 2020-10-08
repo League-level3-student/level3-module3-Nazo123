@@ -1,4 +1,4 @@
-package _02_Cities;
+<>package _02_Cities;
 
 import static org.junit.Assert.assertEquals;
 
